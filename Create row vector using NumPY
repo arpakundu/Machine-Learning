@@ -1,5 +1,0 @@
-import numpy as np
-list1 = [1, 2, 3]
-vector1 = np..array(list1)
-print('Row Vector: ')
-print(vector1)
